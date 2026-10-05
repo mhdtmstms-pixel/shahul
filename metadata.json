@@ -1,0 +1,6 @@
+{
+  "name": "Terra Escapes",
+  "description": "Explore the World Sustainably & Peacefully. Premium eco-friendly travel agency with immersive AI audio guides, zero-plastic tours, and carbon-neutral stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
